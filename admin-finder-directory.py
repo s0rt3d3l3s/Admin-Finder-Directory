@@ -24,7 +24,7 @@ about = '''
                 |____/|_|_|  \___|\___|\__\___/|_|   \__, |
                                                       |___/                                          
 
-              Coded by: Leo_FuckOff ==> github.com/Leo_FuckOff
+              Coded by: leo_guei ==> github.com/Leo_FuckOff
 		'''
 
 print (vermelho+about)
